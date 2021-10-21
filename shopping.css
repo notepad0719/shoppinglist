@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: papayawhip;
   text-align: center;
 }
 
@@ -18,7 +18,6 @@ button {
   width: 400px;
   margin: auto;
   border-radius: 20px;
-  overflow-y: ;
 }
 
 .header {
@@ -36,7 +35,9 @@ button {
 
 .items {
   height: 500px;
+  background-color: whitesmoke;
   padding: 0;
+  margin: 0;
   overflow-y: auto;
 }
 .itemRow {
